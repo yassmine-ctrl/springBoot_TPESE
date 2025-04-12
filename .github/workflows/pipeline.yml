@@ -3,7 +3,7 @@ name: Simple CI/CD for Spring Boot
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
